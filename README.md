@@ -6,7 +6,8 @@ My name is Maria and I am currently doing a full stack web development course at
 - 👩‍🎓 I am a former marketer
 - 🌱 I’m currently learning: UX/UI, HTML, CSS, Bootstrap, JavaScript, Angular, PHP, Symfony, Apache, Node.js, PHP, Symfony, Apache, Node.js, POO, and Algorithm theories.
 - ⚡ I'm passionate about design
-- 📫 LinkedIn [Maria Montagu] (https://www.linkedin.com/in/mariafmontagu/)
+- 📫 LinkedIn [Maria Montagu] 
+(https://www.linkedin.com/in/mariafmontagu/)
 
 
 
