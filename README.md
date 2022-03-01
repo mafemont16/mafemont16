@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-My name is Maria and I am currently a front end developer working with #React, #Typescript,  and #MaterialUI 
+My name is Maria and I am a front end developer working with #React, #Typescript,  and #MaterialUI at a French company. 
 
 More about me
 - 👩‍🎓 I am a former marketer
