@@ -1,10 +1,11 @@
 
 # Hello there 👋
 
-My name is Maria and I am currently doing a full stack web development course at the Passerelle Numérique / Ecole Central in Marseille, France. I am interested in all aspects of Web Design and Web Development. 
+My name is Maria and I am currently a front end developer working with #React, #Typescript,  and #MaterialUI 
 
+More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 I’m currently learning: UX/UI, HTML, CSS, Bootstrap, JavaScript, Angular, PHP, Symfony, Apache, Node.js, PHP, Symfony, Apache, Node.js, POO, and Algorithm theories.
+- 🌱 I’m currently learning #NextJS #Webpack, #GraphQL, #NodeJS and #TailwindCSS.
 - 📫 LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
 - 👩🏻‍💻 [My portfolio](https://mafemont16.github.io/portfolio/)
