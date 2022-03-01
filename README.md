@@ -5,10 +5,10 @@ My name is Maria and I am currently a front end developer working with #React, #
 
 More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 I’m currently learning #NextJS #Webpack, #GraphQL, #NodeJS and #TailwindCSS.
-- 📫 LinkedIn
+- 🌱 Currently learning #NextJS #Webpack, #GraphQL, #NodeJS and #TailwindCSS.
+- 📫 Visit my LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
-- 👩🏻‍💻 [My portfolio](https://mafemont16.github.io/portfolio/)
+- 👩🏻‍💻 This is my [My portfolio](https://mafemont16.github.io/portfolio/)
 
 
 <!--
