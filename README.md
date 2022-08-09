@@ -5,7 +5,7 @@ My name is Maria and I am a front end developer working with #React, #Typescript
 
 More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 Currently learning #NextJS #Webpack, #GraphQL, #NodeJS and #TailwindCSS.
+- 🌱 Currently learning #JS, #React, #Vue, #NextJS, #GraphQL, #NodeJS and #MaterialUI 
 - 📫 Visit my LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
 - 👩🏻‍💻 This is my [My portfolio](https://mafemont16.github.io/portfolio/)
