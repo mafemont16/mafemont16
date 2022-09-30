@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-My name is Maria and I am a front end developer working with #React, #Typescript,  and #MaterialUI. I am passionate about creating great user experiences and beautiful interfaces.
+My name is Maria and I am a front end developer with a deep interest in visual design and user experience. 
 
 More about me
 - 👩‍🎓 I am a former marketer
