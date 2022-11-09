@@ -5,7 +5,7 @@ My name is Maria and I am a front end developer with a deep interest in visual d
 
 More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 Currently learning #VueJS
+- 🌱 Currently learning #everything
 - 📫 Check out my profile on LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
 - 👩🏻‍💻 This is my [My portfolio](https://mafemont16.github.io/portfolio/)
