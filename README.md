@@ -1,11 +1,11 @@
 
 # Hello there 👋
 
-My name is Maria and I am a front end developer with a deep interest in visual design and user experience. 
+My name is Maria and I am a frontend developer and UX/UI designer with a deep interest in everything related to user interfaces. 
 
 More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 Currently learning #everything
+- 🌱 Currently learning more about #UX #React #UI
 - 📫 Check out my profile on LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
 - 👩🏻‍💻 This is my [My portfolio](https://mafemont16.github.io/portfolio/)
