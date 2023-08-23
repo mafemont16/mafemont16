@@ -5,10 +5,9 @@ My name is Maria and I am a frontend developer and UX/UI designer with a deep in
 
 More about me
 - 👩‍🎓 I am a former marketer
-- 🌱 Currently learning more about #UX #React #UI
 - 📫 Check out my profile on LinkedIn
 [Maria Montagu](https://www.linkedin.com/in/mariafmontagu/).
-- 👩🏻‍💻 This is my [My portfolio](https://mafemont16.github.io/portfolio/)
+- 👩🏻‍💻 This is [My portfolio](https://mafemont16.github.io/portfolio/)
 
 
 <!--
