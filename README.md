@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-My name is Maria and I am a frontend developer and UX/UI designer with a deep interest in everything related to user interfaces. 
+My name is Maria and I am a Product Designer with a deep interest in everything related to user interfaces. 
 
 More about me
 - 👩‍🎓 I am a former marketer
